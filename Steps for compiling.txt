@@ -1,0 +1,4 @@
+1. copy src files
+2. change package name
+3. add activities into manifest
+4. check string.xml
